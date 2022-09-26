@@ -1,0 +1,11 @@
+body article {
+    display: inline-block;
+    border: 2px solid black;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+article ul li {
+    list-style: none;
+}
